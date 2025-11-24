@@ -4,7 +4,7 @@
     "versionName": "1.0.7"
   },
   "ios": {
-    "versionCode": 39,
+    "versionName": "1.0.6"
     "buildNumber": "14"
   },
   "updateType": "optional"
