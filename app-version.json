@@ -5,7 +5,7 @@
   },
   "ios": {
     "versionCode": 39,
-    "buildNumber": "12"
+    "buildNumber": "15"
   },
   "updateType": "optional"
 }
