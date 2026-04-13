@@ -1,0 +1,8 @@
+{
+  "android": {
+    "minimumVersionCode": 27,
+    "message": "Please install the latest CallZap update from the Play Store to continue.",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.togiledialer.app",
+    "packageId": "com.togiledialer.app"
+  }
+}
