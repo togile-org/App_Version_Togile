@@ -4,8 +4,8 @@
     "versionName": "1.2.5"
   },
   "ios": {
-    "versionName": "1.2.3",
-    "buildNumber": "23"
+    "versionName": "1.2.6",
+    "buildNumber": "33"
   },
   "updateType": "mandatory"
 }
