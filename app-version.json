@@ -1,11 +1,11 @@
 {
   "android": {
-    "versionCode": 89,
-    "versionName": "1.2.5"
+    "versionCode": 90,
+    "versionName": "1.2.6"
   },
   "ios": {
-    "versionName": "1.2.6",
-    "buildNumber": "33"
+    "versionName": "1.2.7",
+    "buildNumber": "34"
   },
   "updateType": "mandatory"
 }
